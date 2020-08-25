@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Tusc WooCommerce Payment Gateway
  * Plugin URI: https://tusc.network
- * Author Name: Aurel Memaj
+ * Author Name: lelimema
  * Author URI: https://tusc.network
  * Description: This plugin allows payments with TUSC.
  * Version: 0.1.0
